@@ -3,6 +3,6 @@
 # input_string_var = input("Введите данные: ")
 # print (input_string_var)
 
-# firstName = input("Enter your first name: ")
-# lastName = input("Enter yout last name: ")
+# firstName = input("Enter first name: ")
+# lastName = input("Enter last name: ")
 # print(f"Hi! {firstName} {lastName}. Nice to meуt you!")
