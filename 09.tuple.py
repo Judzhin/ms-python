@@ -4,7 +4,7 @@
 # print(a.__sizeof__ ())
 # print(b.__sizeof__ ())
 
-a = tuple ("Hello world!")
+a = tuple("Hello world!")
 print(a)
 
 b = "Hello world", "foo", 50

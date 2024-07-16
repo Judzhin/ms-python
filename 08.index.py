@@ -1,6 +1,6 @@
 l = [34, 'sd', 56, 34.34]
 print(l[0])
-print(l[-1]) # start from end
+print(l[-1])  # start from end
 
 i = 0
 while i < 4:
